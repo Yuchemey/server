@@ -144,6 +144,8 @@ xi.mobSkill =
     JUDGMENT_BOLT_4   = 2484, -- Unknown usage.
     AERIAL_BLAST_4    = 2485, -- Unknown usage.
 
+    BOOMING_BOMB      = 2770,
+
     LIGHT_BLADE_2     = 3214,
 
     INFERNO_5         = 3325, -- Unknown usage.
